@@ -1,0 +1,6 @@
+[submodule "Front_End_Management"]
+	path = Front_End_Management
+	url = https://github.com/umerali0986/Front_end_EmployeeManagement.git
+[submodule "Back_End_EmployeeManagment"]
+	path = Back_End_EmployeeManagment
+	url = https://github.com/umerali0986/Back_end_EmployeeManagement.git
